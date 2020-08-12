@@ -1,2 +1,2 @@
 # PDF_watermarker
-This a pdf watermark automation project
+This is a basic PDF combiner/Watermarker script.
